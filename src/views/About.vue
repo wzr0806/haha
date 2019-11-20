@@ -1,6 +1,6 @@
 <template>
 	<div class="about">
-		<h1>This is an about page</h1>
+		<h1>哈哈哈啊哈哈哈这是about</h1>
 
 
 		<van-button @touchstart.stop="show = true">

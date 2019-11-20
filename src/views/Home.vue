@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    12345654323454
   </div>
 </template>
 
